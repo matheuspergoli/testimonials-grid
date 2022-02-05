@@ -38,6 +38,11 @@ body {
     padding-right: 1.5rem;
 }
 
+#testimonial-grid {
+    display: grid;
+    gap: 1.5rem;
+}
+
 #card-1,
 #card-2,
 #card-3,
