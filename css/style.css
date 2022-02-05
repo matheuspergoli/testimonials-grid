@@ -34,8 +34,7 @@ body {
 /* CONTAINER CLASS */
 .container {
     margin: auto;
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
+    padding: 1.5rem;
 }
 
 #testimonial-grid {
