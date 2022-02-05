@@ -58,7 +58,7 @@ body {
     background-color: var(--moderate-violet);
     background-repeat: no-repeat;
     background-position: right 2rem top;
-    background-image: url(/images/bg-pattern-quotation.svg);
+    background-image: url(../images/bg-pattern-quotation.svg);
 }
 
 #card-2 {
