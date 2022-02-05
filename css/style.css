@@ -115,19 +115,19 @@ body {
 
 .review-white {
     line-height: 2rem;
-    font-size: 1.85rem;
+    font-size: 1.65rem;
     color: var(--white-opacity-70);
 }
 
 .review-white-50 {
     line-height: 2rem;
-    font-size: 1.85rem;
+    font-size: 1.65rem;
     color: var(--white-opacity-50);
 }
 
 .review-black {
     line-height: 2rem;
-    font-size: 1.85rem;
+    font-size: 1.65rem;
     color: var(--very-dark-grayish-blue-opacity-70);
 }
 
