@@ -29,7 +29,7 @@ body {
     align-items: center;
     height: 100vh;
     padding: 1.5rem;
-    background-color: var(--light-gray);
+    background-color: var(--light-grayish-blue);
 }
 
 /* CONTAINER CLASS */
